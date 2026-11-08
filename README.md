@@ -85,7 +85,7 @@ python numera.py
 6. اكتب وصفًا قصيرًا للتغييرات، مثل `Add NUMERA Pixel Edition`، ثم أكمل تأكيد رفع الملفات وحفظها.
 7. افتح الصفحة الرئيسية للمستودع وتأكد من ظهور الشرح والصورة وملف البرنامج.
 
-يمكن الرجوع إلى [دليل GitHub الرسمي لرفع الملفات](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) لتفاصيل خطوات الموقع.
+
 
 ## English
 
